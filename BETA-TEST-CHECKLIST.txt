@@ -1,0 +1,11 @@
+SOUL ASSASSINS — FIELD TEST 0.1
+
+[ ] Install app-debug.apk from the GitHub Actions artifact.
+[ ] Confirm app opens directly into the game in landscape.
+[ ] Test touch joystick movement and FIRE button.
+[ ] Test keyboard movement, mouse aim, shooting and reload on PC.
+[ ] Recover all 3 intel caches and reach extraction.
+[ ] Test app pause/resume and relaunch.
+[ ] Record device model, Android version and any crash details.
+
+Known limits: this is an early 2D single-player prototype. It has no multiplayer, accounts, voice chat, 3D campaign maps, Solana purchases, production backend or independent security audit.
